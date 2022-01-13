@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TD8</string>
+    <string name="guess_the_country">Guess The Country</string>
+    <string name="question_1_of_10">Question 1 of 10</string>
+    <string name="current_points">Current Points :</string>
+</resources>
